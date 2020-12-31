@@ -1,16 +1,17 @@
-# Readme Generator
+# Automated README Generator
     
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/garimaggupta/hw5?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/garimaggupta/https://github.com/garimaggupta/hw7?style=flat&logo=appveyor)
 
 
 ## Description
     
-This project generates a markdown README based on user input
+This app allows you to interactively and automatically generate Markdown version of README for your project
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
+* [Tests](#tests)
 * [License](#license)
 
 
@@ -24,16 +25,22 @@ npm i
   
 *Instructions and examples for use:*
   
-usage instrcutions
+Please clone the report and run 'npm i' to install all dependencies
 
 ## Contributing
 
-Fork and Contritube
+Fork and Contribute
 
+
+## Tests
+  
+*Tests for application and how to run them:*
+  
+N/A
   
 ## License
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ---
@@ -44,4 +51,4 @@ For any questions, please contact me with the information below:
  
 GitHub Profile: [garimaggupta](https://github.com/garimaggupta) 
   
-Email: garima@whispir.com
+Email: garimaggupta@gmail.com
